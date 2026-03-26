@@ -65,3 +65,4 @@ Most Common Dismissal Types: Most common ways players got out in the 2024 T20 Wo
 Highest Partnerships: Top partnerships in terms of runs scored in the 2024 T20 World Cup.
 Performance of Teams in Powerplays: Average runs scored and wickets lost in powerplay overs in the 2024 T20 World Cup.
 Top Players by Boundary Percentage: Players with the highest percentage of boundaries in their total runs in the 2024 T20 World Cup.
+<img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/6ed5455b-f715-44ee-8776-a522b0e52252" />
