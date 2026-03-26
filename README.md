@@ -65,4 +65,21 @@ Most Common Dismissal Types: Most common ways players got out in the 2024 T20 Wo
 Highest Partnerships: Top partnerships in terms of runs scored in the 2024 T20 World Cup.
 Performance of Teams in Powerplays: Average runs scored and wickets lost in powerplay overs in the 2024 T20 World Cup.
 Top Players by Boundary Percentage: Players with the highest percentage of boundaries in their total runs in the 2024 T20 World Cup.
+
+Top 10 Best Batting Averages: Identified the players with the highest batting averages in the 2024 T20 World Cup.
 <img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/6ed5455b-f715-44ee-8776-a522b0e52252" />
+
+Top 10 Best Bowling Averages: Analyzed the bowlers with the best bowling averages in the 2024 T20 World Cup.
+<img width="966" height="547" alt="image" src="https://github.com/user-attachments/assets/9b43b439-80e5-4bc8-8e3c-6395120c61d4" />
+Top 5 Most Fifties: Evaluated the players who have scored the most fifties in the 2024 T20 World Cup matches. 
+<img width="1013" height="547" alt="image" src="https://github.com/user-attachments/assets/da86d1ed-85af-4817-a202-47915549f1a9" />
+Top 10 Most Sixes Player Names: Listed the players who have hit the most sixes in the 2024 T20 World Cup.
+<img width="1013" height="547" alt="image" src="https://github.com/user-attachments/assets/ff9c4aee-97d6-4d7b-90ab-b907650fbdd0" />
+Top 10 Most Boundaries Player Names: Analyzed the players with the most boundaries (fours and sixes combined) in the 2024 T20 World Cup.
+<img width="1013" height="547" alt="image" src="https://github.com/user-attachments/assets/5ad6dd35-632d-47b0-a009-f329ff150eca" />
+Conclusion
+This analysis provided insights into various aspects of the 2024 T20 World Cup, from top performers to team dynamics and match outcomes. The visualizations and findings can help cricket enthusiasts, analysts, and researchers understand the dynamics of this global event better.
+
+
+
+
